@@ -1,7 +1,6 @@
 💳 Credit Card Validator (JavaScript)
 
 A fast and lightweight JavaScript application that validates credit card numbers using the Luhn Algorithm, detects card issuers, and performs basic BIN (Bank Identification Number) analysis.
-
 This project demonstrates how the same core validation logic can be implemented in JavaScript (Node.js / Browser).
 
 🚀 Features
